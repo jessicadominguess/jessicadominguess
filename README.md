@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Jéssica Domingues Lamosa.
+- 👋 Hi,
 
 <div> 
-    <h5>  
-My new github is: <a href="https://github.com/jdlamosa">jdlamosa</a>
+    <h4>  
+ I’m Jéssica Domingues Lamosa and my new github is: <a href="https://github.com/jdlamosa">jdlamosa</a>
 </div> 
 <!---
 jessicadominguess/jessicadominguess is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
